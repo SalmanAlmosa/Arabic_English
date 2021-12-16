@@ -7,7 +7,7 @@ Chris's(كريس) Hellowaa, Ma sha alah
 
 | English                        | Arabic                      |
 | :----------------------------- | :-------------------------- |
-| Hello                          | Marhaba                     |
+| Hello                          | slam Alekm                     |
 | Good morning                   | Sabah alkhr                 |
 | Welcome again                  | Ahlan becom mojadadan       |
 | Are there any questions?       | Fee ay soaal                |
